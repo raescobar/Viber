@@ -1,0 +1,225 @@
+{
+  "daily_metrics": [
+    {
+      "date": "2021-11-05",
+      "likes": 2,
+      "dau": 192,
+      "wau": 709,
+      "twau": 827,
+      "mau": 1000,
+      "messages": {
+        "total": 0,
+        "text": 0,
+        "pictures": 0,
+        "video": 0,
+        "files": 0,
+        "url": 0
+      },
+      "members": {
+        "join": 21,
+        "left": 2
+      }
+    },
+    {
+      "date": "2021-11-06",
+      "likes": 1,
+      "dau": 95,
+      "wau": 734,
+      "twau": 857,
+      "mau": 1026,
+      "messages": {
+        "total": 0,
+        "text": 0,
+        "pictures": 0,
+        "video": 0,
+        "files": 0,
+        "url": 0
+      },
+      "members": {
+        "join": 22,
+        "left": 2
+      }
+    },
+    {
+      "date": "2021-11-07",
+      "likes": 0,
+      "dau": 49,
+      "wau": 747,
+      "twau": 855,
+      "mau": 1035,
+      "messages": {
+        "total": 0,
+        "text": 0,
+        "pictures": 0,
+        "video": 0,
+        "files": 0,
+        "url": 0
+      },
+      "members": {
+        "join": 5,
+        "left": 0
+      }
+    },
+    {
+      "date": "2021-11-08",
+      "likes": 7,
+      "dau": 392,
+      "wau": 778,
+      "twau": 880,
+      "mau": 1053,
+      "messages": {
+        "total": 2,
+        "text": 1,
+        "pictures": 0,
+        "video": 0,
+        "files": 0,
+        "url": 0
+      },
+      "members": {
+        "join": 15,
+        "left": 0
+      }
+    },
+    {
+      "date": "2021-11-09",
+      "likes": 11,
+      "dau": 474,
+      "wau": 817,
+      "twau": 915,
+      "mau": 1080,
+      "messages": {
+        "total": 7,
+        "text": 1,
+        "pictures": 5,
+        "video": 0,
+        "files": 0,
+        "url": 1
+      },
+      "members": {
+        "join": 19,
+        "left": 0
+      }
+    },
+    {
+      "date": "2021-11-10",
+      "likes": 11,
+      "dau": 403,
+      "wau": 815,
+      "twau": 927,
+      "mau": 1090,
+      "messages": {
+        "total": 2,
+        "text": 1,
+        "pictures": 1,
+        "video": 0,
+        "files": 0,
+        "url": 0
+      },
+      "members": {
+        "join": 14,
+        "left": 0
+      }
+    },
+    {
+      "date": "2021-11-11",
+      "likes": 1,
+      "dau": 119,
+      "wau": 791,
+      "twau": 944,
+      "mau": 1105,
+      "messages": {
+        "total": 0,
+        "text": 0,
+        "pictures": 0,
+        "video": 0,
+        "files": 0,
+        "url": 0
+      },
+      "members": {
+        "join": 20,
+        "left": 2
+      }
+    },
+    {
+      "date": "2021-11-12",
+      "likes": 3,
+      "dau": 76,
+      "wau": 780,
+      "twau": 962,
+      "mau": 1111,
+      "messages": {
+        "total": 0,
+        "text": 0,
+        "pictures": 0,
+        "video": 0,
+        "files": 0,
+        "url": 0
+      },
+      "members": {
+        "join": 16,
+        "left": 0
+      }
+    },
+    {
+      "date": "2021-11-13",
+      "likes": 5,
+      "dau": 262,
+      "wau": 792,
+      "twau": 985,
+      "mau": 1122,
+      "messages": {
+        "total": 2,
+        "text": 1,
+        "pictures": 1,
+        "video": 0,
+        "files": 0,
+        "url": 0
+      },
+      "members": {
+        "join": 18,
+        "left": 0
+      }
+    },
+    {
+      "date": "2021-11-14",
+      "likes": 1,
+      "dau": 193,
+      "wau": 807,
+      "twau": 1001,
+      "mau": 1134,
+      "messages": {
+        "total": 0,
+        "text": 0,
+        "pictures": 0,
+        "video": 0,
+        "files": 0,
+        "url": 0
+      },
+      "members": {
+        "join": 6,
+        "left": 1
+      }
+    }
+  ],
+  "demographic": {
+    "gender": {
+      "men": 24.87,
+      "women": 71.43,
+      "unknown": 3.7
+    },
+    "age_groups": {
+      "3-17": 0.26,
+      "18-24": 2.29,
+      "25-34": 46.91,
+      "35-44": 18.43,
+      "45-54": 9.7,
+      "55-64": 5.56,
+      "65+": 0.97,
+      "age_unknown": 15.87
+    },
+    "top_countries": {
+      "Philippines": "95.33"
+    }
+  },
+  "community_id": "5601786480267791780"
+}
